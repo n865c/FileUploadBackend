@@ -9,7 +9,7 @@ const fileSchema=new mongoose.Schema({
     imageFile:{
         type:String,
     },
-    tage:{
+    tag:{
         type:String,
     }
 
